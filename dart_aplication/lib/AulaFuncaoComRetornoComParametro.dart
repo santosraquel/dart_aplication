@@ -31,7 +31,7 @@ String verificarAprovacao(double nota1, double nota2) {
   double media = (nota1 + nota2) / 2;
   return (media > 6) ? 'aprovado' : 'reprovado';
 
-  /*linha 26 é equivalente ao código abaixo
+  /*linha 32 é equivalente ao código abaixo
   if(media >6){
     return 'aprovado';
   }else{

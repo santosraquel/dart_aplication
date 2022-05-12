@@ -27,7 +27,7 @@ import 'dart:io';
 */
 
 void show() {
-  adicionarSalario(1000.00, 200.5, eValido(2.5));
+  // adicionarSalario(1000.00, 200.5, eValido(2.5));
 }
 
 void adicionarSalario(

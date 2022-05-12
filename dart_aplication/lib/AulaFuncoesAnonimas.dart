@@ -7,7 +7,7 @@ Contexto
 
 */
 
-import 'dart:io';
+// import 'dart:io';
 
 String verificarAprovacaoCompleto(int opcao, double nota1, double nota2) {
   if (opcao == 1) {
