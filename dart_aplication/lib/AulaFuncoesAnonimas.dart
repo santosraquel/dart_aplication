@@ -231,7 +231,7 @@ Fazer um exemplo seu
 
 OBS: Está no meu repositório do GitHub:
 
-https://github.com/santosraquel/projeto_software
+https://github.com/santosraquel/projeto_software/tree/master
 
 */
 
